@@ -3,7 +3,7 @@
 1. The 'detector' file contains two sub-models based on contrastive learning.
 	
 
-	🚀🚀🚀 A TensorFlow implementation of Contrastive Learning model for extracting contextual and mentional features of Named Entities.
+	🚀🚀🚀 A TensorFlow implementation of Self-Context Contrastive Loss for extracting contextual and mentional features of Named Entities.
 
 	##### Project Features
 
