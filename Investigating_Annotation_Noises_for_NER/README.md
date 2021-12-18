@@ -1,6 +1,6 @@
 # Investigating Annotation Noises for NER
 
-1. The 'contrastive_learning' file contains two sub-models based on contrastive learning.
+1. The 'detector' file contains two sub-models based on contrastive learning.
 	
 
 	🚀🚀🚀 A TensorFlow implementation of Contrastive Learning model for extracting contextual and mentional features of Named Entities.
